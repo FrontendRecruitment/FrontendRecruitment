@@ -1,0 +1,5 @@
+- 👋 Hi, I am the Saavy Recruiter
+- 👀 Irecruit for Frontend and Backend Developers
+- 🌱 I focus on deep searches for hard to find talent
+- 💞️ I am happy to answer any questions you may have
+- 📫 You can reach me by connecting with me on Linkedin https://www.linkedin.com/in/softwaredevelopmentrecruitment/
